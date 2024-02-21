@@ -1,0 +1,182 @@
+.img1 {
+    width: 120px;
+    height: 50px;
+}
+
+.inp1 {
+    width: 550px;
+    height: 40px;
+}
+
+.cimg1 {
+    width: 860px;
+    height: 413.22px;
+    border-radius: 32px;
+}
+
+.carousel-container {
+    width: 860px;
+    height: 441.22px;
+    margin: 20px;
+}
+
+.card1 {
+    width: 200px;
+    height: 238px;
+    border-radius: 10px;
+    border-radius: 10px solid;
+
+}
+
+.card-container {
+    width: 860px;
+    height: 441.22px;
+    margin: 20px;
+}
+
+.appliances {
+    color: #3BA615;
+    font-family: 'Metropolis';
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.amazon-img {
+    width: 80px;
+    height: 24px;
+}
+
+.appliances1 {
+    font-family: "Metropolis", sans-serif;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+    color: #878787;
+}
+
+.card-body {
+    width: 155px;
+    height: 132px;
+    top: 16px;
+    left: 22px;
+    margin: 20px;
+}
+
+.go-button {
+    width: 148px;
+    height: 36px;
+    top: 187px;
+    left: 26px;
+    border-radius: 8px;
+    padding: 12px 16px;
+    margin: 8px;
+}
+
+ol.carousel-indicators li.active {
+    width: 48px;
+    height: 8px;
+    border-radius: 4px;
+    background-color: black;
+}
+
+ol.carousel-indicators li.non-active {
+    background-color: #D9D9D9;
+    width: 20px;
+    height: 8px;
+    border-radius: 4px;
+}
+
+.coupon-card {
+    width: 92px;
+    height: 90px;
+    border-radius: 8px 8px 0px 0px;
+    border-width: 0px 0px 2px 0px;
+    padding: 16px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.img3 {
+    width: 36px;
+    height: 36px;
+}
+
+.img4 {
+    width: 520px;
+    height: 500px;
+    border-radius: 10px;
+}
+
+.row1 {
+    background-image: linear-gradient(to right, #DADADA 25%, #DADADA 100%);
+}
+
+.fontawesome {
+    width: 56px;
+    height: 56px;
+    border-radius: 20px;
+    padding: 16px;
+    margin: 8px;
+}
+
+.card2 {
+    width: 164px;
+    height: 56px;
+    border-radius: 8px;
+    border: 1px solid;
+    padding: 12px 20px;
+    /* top/bottom padding: 12px, left/right padding: 20px */
+    margin: 12px;
+    /* This sets the margin on all sides */
+}
+
+.aple {
+    width: 32px;
+    height: 32px;
+}
+
+.minitest {
+    font-size: 10px;
+}
+
+.img6 {
+    width: 144.95px;
+    height: 293.62px;
+    top: 65.52px;
+    left: 435px;
+    transform: rotate(15deg);
+}
+
+.img7 {
+    width: 195px;
+    height: 395px;
+    top: 89.47px;
+    left: 605px;
+    transform: rotate(15deg);
+
+}
+
+.colstore {
+    margin-top: 150px;
+}
+
+.img8 {
+    width: 367px;
+    height: 520px;
+    top: -80px;
+    left: -55px;
+}
+
+.fnt {
+    font-family: Metropolis;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
